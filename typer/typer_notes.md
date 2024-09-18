@@ -14,5 +14,5 @@ Typer會自動生成help，help會帶出function的argument等等資訊。可以
 python hello_typer.py --help
 ```
 
-![help_example](.\artifects\imgs\help_example.png, 'help example')
+![help_example](.\artifects\imgs\help_example.png)
 
